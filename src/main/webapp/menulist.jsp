@@ -31,7 +31,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>메뉴 목록</h2>
+	<h2>메뉴 목록 보기</h2>
 	
 	<table border="1" width="978" align="center">
 	 <tr>
